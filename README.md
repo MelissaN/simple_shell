@@ -1,5 +1,5 @@
 ## Simple Shell
-> In this project, we coded from scatch a simple Unix shell. A shell is an interactive
+> In this project, we coded from scratch a simple Unix shell. A shell is an interactive
 > command-line interpreter. We created a shell that would utilize the command line
 > interface (CLI). It allows users to type in a defined set of
 > commands (e.g. "rm" to remove files, "cat" to combine word documents, etc) and have the
