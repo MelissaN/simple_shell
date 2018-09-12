@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/MelissaN/simple_shell/master/shell.gif">
 ## Simple Shell
 > In this project, we coded from scratch a simple Unix shell. A shell is an interactive
 > command-line interpreter. We created a shell that would utilize the command line
